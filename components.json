@@ -1,0 +1,28 @@
+{
+    "cpu": [
+        {
+            "name": "Ryzen 5 5600",
+            "price": 12000,
+            "socket": "AM4",
+            "score": 8
+        },
+        {
+            "name": "Ryzen 7 5800X",
+            "price": 20000,
+            "socket": "AM4",
+            "score": 9
+        },
+        {
+            "name": "Intel i5 12400",
+            "price": 15000,
+            "socket": "LGA1700",
+            "score": 9
+        },
+        {
+            "name": "Intel i7 12700",
+            "price": 25000,
+            "socket": "LGA1700",
+            "score": 10
+        }
+    ]
+}
